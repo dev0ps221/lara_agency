@@ -16,5 +16,8 @@ Route::controller(App\Http\Controllers\SiteController::class)->group(
         Route::get(
             '/','home'
         );
+        Route::get(
+            '/{view}','render'
+        );
     }
 );

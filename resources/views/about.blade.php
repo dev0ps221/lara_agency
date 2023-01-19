@@ -4,7 +4,7 @@
     <section class='card container-fluid'>
         <div class="card-header">
             <h1 class="card-title">
-                home
+                about
             </h1>
         </div>
         <div class="card-body">
